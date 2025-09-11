@@ -1,1 +1,9 @@
 https://drive.google.com/file/d/1ML1g2e44XILxKzWFVLgpEKDaRDDMT_aA/view?usp=sharing
+
+Needed to run InteractToalSegPredictions file 
+Download and replace paths within the notebook
+Contains:
+    MRI Images -> test_nfitis
+    Ground Truth -> masks_nfitis
+    TotalSegmentor Predictions -> test_results
+    
