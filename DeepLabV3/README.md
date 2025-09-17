@@ -4,7 +4,7 @@ The pipeline outputs trained models, validation results, and visualization of pr
 
 Requires installation of this datatset: https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
 
-Instructions:
+Instructions for MRI_ImageSeg_DeepLabV3_Slices_V2:
 Replace files_dir (Found in cell 8) with the path to your downloaded folder titled lgg-mri-segmentation/kaggle_3m
 Replace data_df (Found in cell 9) with the path to your data.csv file found in the kaggle_3m folder
 Run each cell in order after these paths are replaced
