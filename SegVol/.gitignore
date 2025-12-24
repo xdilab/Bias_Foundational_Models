@@ -1,0 +1,5 @@
+/weights/
+/data/
+*.bin
+*.pth
+*.nii.gz

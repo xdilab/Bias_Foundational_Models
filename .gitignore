@@ -1,0 +1,21 @@
+# Ignore Datasets
+*.nii
+*.nii.gz
+*.png
+*.jpg
+*.jpeg
+dataset/
+data/
+
+# Ignore Model Weights (The heavy stuff)
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+weights/
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+.idea/
+.ipynb_checkpoints/
